@@ -1,0 +1,7 @@
+C:\Systems\Katas\C#\ZooKeeperApp\ZooKeeperApp\bin\Debug\ZooKeeperApp.exe.config
+C:\Systems\Katas\C#\ZooKeeperApp\ZooKeeperApp\bin\Debug\ZooKeeperApp.exe
+C:\Systems\Katas\C#\ZooKeeperApp\ZooKeeperApp\bin\Debug\ZooKeeperApp.pdb
+C:\Systems\Katas\C#\ZooKeeperApp\ZooKeeperApp\obj\Debug\ZooKeeperApp.csprojResolveAssemblyReference.cache
+C:\Systems\Katas\C#\ZooKeeperApp\ZooKeeperApp\obj\Debug\ZooKeeperApp.csproj.CoreCompileInputs.cache
+C:\Systems\Katas\C#\ZooKeeperApp\ZooKeeperApp\obj\Debug\ZooKeeperApp.exe
+C:\Systems\Katas\C#\ZooKeeperApp\ZooKeeperApp\obj\Debug\ZooKeeperApp.pdb
